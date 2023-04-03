@@ -11,5 +11,7 @@ Implements REST services, providing an opportunity:
 Used Technologies:
 
 Java 8
+
 Spring Boot
+
 Oracle SQL
